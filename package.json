@@ -18,5 +18,10 @@
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "private": true,
+  "name": "calculadora_imc",
+  "description": "A realização de um simples aplicativo em React Native, mas que a função Calcular no (App.js), pode ser utilizada para a realização em qualquer outro código que deseje usar o cálculo de IMC.",
+  "version": "1.0.0",
+  "author": "Gabriel Dutra",
+  "license": "ISC"
 }
