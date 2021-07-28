@@ -23,9 +23,6 @@ Alerta ao deixar os campos em brancos
 
 Uma das possíveis respostas
 
-(GIF APP)
-
-Aplicativo em execução
 ## 📝Direitos:
 
 Direitos Públicos
