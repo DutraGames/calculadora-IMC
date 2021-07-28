@@ -10,15 +10,15 @@ A realização de um simples aplicativo em React Native, mas que a função Calc
 
 ## 📷Images:
 
-![base](/images_README/base.png?raw=true)
+![base](images_README/base.png?raw=true)
 
 Interface inicial do App de Cálculo de IMC
 
-![campo](/images_README/campos.png?raw=true)
+![campo](images_README/campos.png?raw=true)
 
 Alerta ao deixar os campos em brancos
 
-![resposta](/images_README/resposta.png?raw=true)
+![resposta](images_README/resposta.png?raw=true)
 
 Uma das possíveis respostas
 
