@@ -2,30 +2,29 @@
 
 A realização de um simples aplicativo em React Native, mas que a função Calcular no (App.js), pode ser utilizada para a realização em qualquer outro código que deseje usar o cálculo de IMC.
 
-# 👨‍💻Technology:
+## 👨‍💻Technology:
 
  * Expo
  * React
  * React Native
 
-📷Images:
+## 📷Images:
 
-(App Base)
+![base](/images_README/base.png)
 
 Interface inicial do App de Cálculo de IMC
 
-(em branco)
+![campo](/images_README/campos.png)
 
 Alerta ao deixar os campos em brancos
 
-(Resposta alternativa)
+![resposta](/images_README/resposta.png)
 
 Uma das possíveis respostas
 
 (GIF APP)
 
 Aplicativo em execução
-
 ## Direitos:
 
 Direitos Públicos
